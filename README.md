@@ -1,3 +1,6 @@
-# JavaScript
+# Atividades
 
-Projetos e atividades feitos em JavaScript, dividinos em branches para separar e facilitar o entendimento
+Trabalhos ou atividades feitos em cursos ou faculdade para exercitar a programação.
+
+Works or activities done in courses or college to practice programming.
+
