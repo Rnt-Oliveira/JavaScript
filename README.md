@@ -1,3 +1,3 @@
-# JavaScript
+# GrandCatAuto  
 
-Projetos e atividades feitos em JavaScript, dividinos em branches para separar e facilitar o entendimento
+Jogo criado baseado em Cross Roads, o objetivo é atravessar a rua sem que o gato seja atropelado, foi atividade exigida para a conclusão de um curso básico.
